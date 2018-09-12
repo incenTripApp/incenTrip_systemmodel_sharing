@@ -1,6 +1,7 @@
 # incenTrip_systemmodel_sharing
 
-TRANSNET University of Maryland Team System Model
+US Department of Energy (DOE) ARPA-E TRANSNET 
+University of Maryland Team - System Model
 
 The mesoscopic traffic simulation model and the 
 Energy estimator are stored in the subfolder: 
